@@ -1,5 +1,5 @@
 {
-  "name": "babel-plugin-function-transform",
+  "name": "@saneksa/babel-plugin-function-transform",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
