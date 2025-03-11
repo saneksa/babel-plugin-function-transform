@@ -1,0 +1,20 @@
+{
+  "name": "babel-plugin-function-transform",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Alexandr Petyaykin",
+    "email": "saneksa2@gmail.com"
+  },
+  "repository": "git@github.com:saneksa/babel-plugin-function-transform",
+  "files": [
+    "index.js",
+    "LICENSE",
+    "README.md"
+  ],
+  "keywords": [
+    "babel",
+    "transform"
+  ]
+}
